@@ -316,7 +316,7 @@ function stageTooSmallHandler(){
     var score;
     var fontProperties = new Sakri.CanvasTextProperties(Sakri.CanvasTextProperties.BOLD, null, 100);
 
-    var word = "TYROLIUM";
+    var word = "EROFAMILY";
 
     function startDemo(){
         canvas.addEventListener('touchstart', handleUserTap, false);
