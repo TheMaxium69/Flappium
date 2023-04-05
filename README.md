@@ -1,7 +1,9 @@
-# Flappium
+# Flappium-EroFamily
 App HTML/CSS/JS, jeux flappy bird en site web
 
-https://themaxium69.github.io/Flappium/
+Pour l'event des 200membre du serveur discord EroFamily
+
+https://tyrolium.fr/erofamily
 
 ![image](https://user-images.githubusercontent.com/63310746/144683315-a3d9f662-ecc2-4830-a940-708448db97fd.png)
 
